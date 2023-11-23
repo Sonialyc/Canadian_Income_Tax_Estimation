@@ -1,0 +1,2 @@
+# Canadian_Income_Tax_Estimation
+ The Canadian Income Tax Estimation Database is a high-level tool designed to streamline tax estimation and financial analysis. It offers a streamlined set of tables, views, and queries, focusing on common income sources, deductions, and tax credits. Gain valuable insights into your income, deductions, and tax liabilities for informed financial decisions. This user-friendly database provides a practical solution for simplified yet insightful tax estimations.
