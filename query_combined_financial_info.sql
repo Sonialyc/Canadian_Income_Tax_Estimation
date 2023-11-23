@@ -1,3 +1,7 @@
+-- Get detailed financial information for each taxpayer, combining income details with CPP contributions and EI premiums.
+-- The query joins taxpayer information, income details, total income, CPP contributions, and EI premiums for the tax years 2022 and 2023.
+-- Results are ordered by taxpayer ID and tax year.
+
 SELECT
   t.taxpayer_id AS "Taxpayer ID",
   t.firstname_lastname AS "Taxpayer''s Name",
